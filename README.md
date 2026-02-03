@@ -1,4 +1,4 @@
-# Nakyung eo
+# 어나경 (Nakyung Eo)
 
 Soongsil University, Computer Science, Class of '24
 
