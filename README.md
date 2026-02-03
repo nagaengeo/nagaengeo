@@ -4,7 +4,7 @@ Soongsil University, Computer Science, Class of '24
 
 ---
 
-## ⚡ Solved.ac ⚡
+## Solved.ac
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=vvovv_12)](https://solved.ac/vvovv_12)
 
